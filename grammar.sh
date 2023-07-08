@@ -1,0 +1,1 @@
+nearleyc bool2.ne -o grammar.ts && deno test grammar.test.ts

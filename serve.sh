@@ -1,0 +1,1 @@
+deno bundle public/script.tsx public/script.js &&  deno run -A index.tsx
